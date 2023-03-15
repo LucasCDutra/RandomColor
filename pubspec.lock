@@ -305,7 +305,7 @@ packages:
     source: sdk
     version: "0.0.99"
   solid_lints:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: solid_lints
       sha256: "5c8e7de1244bc9701ed9b0e5c29886308d0275c4ac9c9a953c7b2bcf2454a7ec"
