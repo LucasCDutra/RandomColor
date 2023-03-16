@@ -1,4 +1,4 @@
-# RandomColor - Solid Software Task
+# RandomColor
 📱 Flutter project that generates random colors for the background.
 
 - Generates random colors
